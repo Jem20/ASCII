@@ -7,4 +7,4 @@ Generates an image into ASCII art.
 
 # How to use
 * Make a folder on the desktop and drag and drop "script.py" and an image.
-* Now simply just execute the script with whatever coding application you use and specify the name of the image file and your all done.
+* Now simply just open the script and specify the name of the image file and your all done.

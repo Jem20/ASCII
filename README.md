@@ -1,2 +1,2 @@
-# ASCII (outdated omegalul)
-Literally just my profile picture in ASCII. Kinda scuffed though.
+# ASCII (FINALLY UPDATED AFTER A YEAR)
+Generates an image into ASCII art.

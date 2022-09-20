@@ -3,7 +3,7 @@ Generates an image into ASCII art.
 
 # Prerequisites
 * Install pillow: https://pillow.readthedocs.io/en/latest/installation.html
-* Install the latest version of python: https://www.python.org/downloads/
+* Install the latest version of python (with PATH specified): https://www.python.org/downloads/
 
 # How to use
 * Make a folder on the desktop and drag and drop "script.py" and an image.
